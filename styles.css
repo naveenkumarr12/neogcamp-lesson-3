@@ -1,0 +1,19 @@
+body{
+    color: palevioletred;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: brown;
+}
+
+#headcolor{
+    color: green;
+}
+
+.para{
+    color: mediumslateblue;
+}
